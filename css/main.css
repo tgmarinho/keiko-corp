@@ -783,9 +783,6 @@ footer .copyright a{
 
 
 
-
-
-
 /*		Responsive CSS 		*/
 
 @media (max-width: 360px) {
@@ -797,6 +794,10 @@ footer .copyright a{
 
 @media (max-width: 767px) {
 
+
+	.hero{
+		background: white;
+	}
 
 	/*		Header 		*/
 	header .logo{
